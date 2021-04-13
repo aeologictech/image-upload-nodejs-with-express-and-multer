@@ -1,0 +1,26 @@
+{
+  "name": "image-upload-nodejs-with-express-and-multer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsblend/image-upload-nodejs-with-express-and-multer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsblend/image-upload-nodejs-with-express-and-multer/issues"
+  },
+  "homepage": "https://github.com/jsblend/image-upload-nodejs-with-express-and-multer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  }
+}
